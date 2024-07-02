@@ -1,0 +1,11 @@
+{
+    "bindings": [
+      {
+        "type": "eventGridTrigger",
+        "name": "displayLogs",
+        "direction": "in"
+      }
+    ]
+  }
+  
+  
